@@ -1,0 +1,1 @@
+{"add":{"isPublic":false,"isEditable":false,"handler":"add_cmd","params":null,"queryMsg":"Choose what you want to add","description":"Add new cmd or authorization","queryHandler":"query_handler","commands":{"cmd":{"handler":"add_new_cmd","queryMsg":"Insert <command_name> <text>"},"auth":{"handler":"add_auth","queryMsg":"Insert <userName>"}}}}
